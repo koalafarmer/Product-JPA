@@ -6,18 +6,13 @@ This project demonstrates how to create a Spring Boot project with JPA, H2, Spri
 
 
 1-Create a Spring Initializr project with JPA, H2, Spring Web, and Lombok dependencies.
+
 2-Create the JPA entity Product with the following attributes:
-      id of type Long
-      name of type String
-      price of type double
-      quantity of type int
+     
 3-Configure the persistence unit in the application.properties file.
+
 4-Create the JPA Repository interface based on Spring Data.
+
 5-Test some product management operations:
-      Add products
-      View all products
-      View a product
-      Search for products
-      Update a product
-      Delete a product
+     
 6-Migrate from H2 Database to MySQL.
